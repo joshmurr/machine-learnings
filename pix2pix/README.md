@@ -9,4 +9,4 @@ This Colab notebook steps you through the following process:
 3. Convert the model into to a [TensorflowJS](https://www.tensorflow.org/js) model and save to your Google Drive.
 4. Finally upload to [this online platform](https://learning-to-learn-to-see.netlify.app/) and interact with using your webcam in real time.
 
-[Go here](https://learning-to-learn-to-see.netlify.app/) to find out more about the project which.
+[Go here](https://learning-to-learn-to-see.netlify.app/) to find out more about the project.
